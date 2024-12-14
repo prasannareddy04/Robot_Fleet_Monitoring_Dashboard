@@ -133,6 +133,8 @@ robot_fleet_monitoring/
 ---
 
 
-## Credits
-This project is designed by Prasanna Reddy Avula  for the Robotair Full-Stack Internship Challenge and demonstrates skills in backend, frontend, real-time updates, and responsive design .
+## Author
+
+[Prasanna Reddy Avula](https://github.com/prasannareddy04)
+
 
