@@ -25,30 +25,30 @@ The **Robot Fleet Monitoring Dashboard** is a full-stack application designed to
 ## Folder Structure
 ```
 robot_fleet_monitoring/
-├── backend/                             # Flask Backend
-│   ├── app.py                          # Main Flask application
-│   ├── fake_robot_data.json            # JSON data file
-│   └── requirements.txt                # Python dependencies
+├── backend/                             
+│   ├── app.py                          
+│   ├── fake_robot_data.json            
+│   └── requirements.txt               
 │
-├── frontend/                            # React.js Frontend
+├── frontend/                        
 │   ├── public/
-│   │   ├── index.html                  # Root HTML file
-│   │   └── favicon.ico                 # Optional favicon
+│   │   ├── index.html                
+│   │   └── favicon.ico                 
 │   │
 │   ├── src/
-│   │   ├── App.js                      # Main React component
-│   │   ├── index.js                    # React entry point
+│   │   ├── App.js                   
+│   │   ├── index.js                    
 │   │   ├── components/
-│   │   │   ├── RobotList.js           # Component for the robot list
-│   │   │   └── MapView.js             # Component for the map view
+│   │   │   ├── Robotlist.js        
+│   │   │   └── MapView.js            
 │   │   ├── styles/
-│   │   │   └── App.css                # Styling for the app
+│   │   │   └── App.css               
 │   │   └── utils/
-│   │       └── api.js                 # Optional API utility functions
+│   │       └── api.js              
 │   │
-│   └── package.json                    # Frontend dependencies
+│   └── package.json                    
 │
-└── README.md                           # Project documentation
+└── README.md                          
 ```
 
 ---
